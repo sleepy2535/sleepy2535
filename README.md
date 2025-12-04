@@ -16,23 +16,23 @@
   <br/>
 
    ## 📂 Project
-  #### 2025 
-  [덕성여자대학교] 소프트웨어전공 졸업전시 '공명' | NeuroPilot 
-  #### 2024
-  [덕성여자대학교] 소프트웨어 미니 프로젝트 | Domi | React
-  [한이음] E-dge | Android
-  [한이음] Trip Chat | React
-  [멋쟁이사자처럼 12기] 4호선톤 | 팟팅 | React
-  [멋쟁이사자처럼 12기] 중앙해커톤 | 매일한방 | React
-  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React 🏅 플렉스튜디오 상
-  [멋쟁이사자처럼 12기] 여기톤 | 문향 | HTML,CSS,Javascript
-  [멋쟁이사자처럼 12기] 12기 합격자 조희 | React
+  #### 2025 <br/>
+  [덕성여자대학교] 소프트웨어전공 졸업전시 '공명' | NeuroPilot <br/>
+  #### 2024<br/>
+  [덕성여자대학교] 소프트웨어 미니 프로젝트 | Domi | React<br/>
+  [한이음] E-dge | Android<br/>
+  [한이음] Trip Chat | React<br/>
+  [멋쟁이사자처럼 12기] 4호선톤 | 팟팅 | React<br/>
+  [멋쟁이사자처럼 12기] 중앙해커톤 | 매일한방 | React<br/>
+  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React 🏅 플렉스튜디오 상<br/>
+  [멋쟁이사자처럼 12기] 여기톤 | 문향 | HTML,CSS,Javascript<br/>
+  [멋쟁이사자처럼 12기] 12기 합격자 조희 | React<br/>
   #### 2023 
-  [멋쟁이사자처럼 12기] Trendithon | Dopaming | React
-  [멋쟁이사자처럼 11기] 어흥톤 | scehdule aid| React
-  [멋쟁이사자처럼 11기] 중앙해커톤 | 작물단 | HTML,CSS,Javascript
-  [멋쟁이사자처럼 11기] 여기톤 플리퀘 | HTML,CSS,Javascript
-  [덕성여자대학교] 소프트웨어전공 제 1회 졸업전시 페이지 sof+elligence | React
+  [멋쟁이사자처럼 12기] Trendithon | Dopaming | React<br/>
+  [멋쟁이사자처럼 11기] 어흥톤 | scehdule aid| React<br/>
+  [멋쟁이사자처럼 11기] 중앙해커톤 | 작물단 | HTML,CSS,Javascript<br/>
+  [멋쟁이사자처럼 11기] 여기톤 플리퀘 | HTML,CSS,Javascript<br/>
+  [덕성여자대학교] 소프트웨어전공 제 1회 졸업전시 페이지 sof+elligence | React<br/>
   
   <br/>
   
@@ -84,10 +84,7 @@
   <br/>
   <br/>
   
- ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepy2535)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy2535)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 </div>

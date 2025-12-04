@@ -18,6 +18,7 @@
    ## 📂 Project
   #### 2025 <br/>
   [덕성여자대학교] 소프트웨어전공 졸업전시 '공명' | NeuroPilot <br/>
+  [덕성여자대학교] 아이폰 프로그래밍 | DreamTrip <br/>
   #### 2024<br/>
   [덕성여자대학교] 소프트웨어 미니 프로젝트 | Domi | React<br/>
   [한이음] E-dge | Android<br/>

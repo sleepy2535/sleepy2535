@@ -24,8 +24,8 @@
   [한이음] Trip Chat | React<br/>
   [멋쟁이사자처럼 12기] 4호선톤 | 팟팅 | React<br/>
   [멋쟁이사자처럼 12기] 중앙해커톤 | 매일한방 | React<br/>
-  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React 🏅 플렉스튜디오 상<br/>
-  [멋쟁이사자처럼 12기] 여기톤 | 문향 | HTML,CSS,Javascript<br/>
+  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React <br/>
+  [멋쟁이사자처럼 12기] 여기톤 | 문향 | HTML,CSS,Javascript | 🏅 플렉스튜디오 상<br/>
   [멋쟁이사자처럼 12기] 12기 합격자 조희 | React<br/>
   #### 2023 
   [멋쟁이사자처럼 12기] Trendithon | Dopaming | React<br/>

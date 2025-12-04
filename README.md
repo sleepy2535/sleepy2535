@@ -8,14 +8,14 @@
 <div>
   <!--Body-->
   
-  ## 👀 Experience 
+  ## 🔥 Experience 
   #### 2023 : 🦁 멋쟁이사자처럼 11기 부원 FE<br/>
   #### 2023 : 💻 덕성여자대학교 AIoT 연구실 <br/>
   #### 2024 : 🦁 멋쟁이사자처럼 11기 운영진 FE<br/>
   #### 2025 : 🚗 Mobius BootCamp 1기 <br/>
   <br/>
 
-   ## 👀 Project
+   ## 📂 Project
   #### 2025 
   [덕성여자대학교] 소프트웨어전공 졸업전시 '공명' | NeuroPilot 
   #### 2024
@@ -24,7 +24,7 @@
   [한이음] Trip Chat | React
   [멋쟁이사자처럼 12기] 4호선톤 | 팟팅 | React
   [멋쟁이사자처럼 12기] 중앙해커톤 | 매일한방 | React
-  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React
+  [덕성여자대학교] 2024년 축제사이트 | 찬란 | React 🏅 플렉스튜디오 상
   [멋쟁이사자처럼 12기] 여기톤 | 문향 | HTML,CSS,Javascript
   [멋쟁이사자처럼 12기] 12기 합격자 조희 | React
   #### 2023 
@@ -84,10 +84,11 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+ ## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepy2535)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy2535)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 </div>
 

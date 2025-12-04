@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 🔥 Experience 
-  #### 2023 : 🦁 멋쟁이사자처럼 11기 부원 FE<br/>
+  #### 2023 : 🦁 멋쟁이사자처럼 12기 부원 FE<br/>
   #### 2023 : 💻 덕성여자대학교 AIoT 연구실 <br/>
   #### 2024 : 🦁 멋쟁이사자처럼 11기 운영진 FE<br/>
   #### 2025 : 🚗 Mobius BootCamp 1기 <br/>
@@ -45,9 +45,9 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--C-->
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -70,7 +70,6 @@
 
   ### Tools / IDE
   <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white&Color=white"/>
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/visualparadigm-CC3333?style=flat-square&logo=visualparadigm&logoColor=white&Color=white"/>
   <br/>
